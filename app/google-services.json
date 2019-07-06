@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "923325243352",
+    "firebase_url": "https://mininotice-d8002.firebaseio.com",
+    "project_id": "mininotice-d8002",
+    "storage_bucket": "mininotice-d8002.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923325243352:android:03d495961578f17a",
+        "android_client_info": {
+          "package_name": "com.example.mininotice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923325243352-jvtekjmcqlhllsl97k0apkar2ftg9oj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAye9t2OIbSglPdRMIHep3E1qhI5IxlEIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923325243352-jvtekjmcqlhllsl97k0apkar2ftg9oj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923325243352:android:32d18ab38f890e1b",
+        "android_client_info": {
+          "package_name": "com.example.minipro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923325243352-cclg60a2h2uulpvsms806cvlg8npr8js.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.minipro",
+            "certificate_hash": "bd3c1c622bb0a334555d1a7d6a528c6ec1ef1716"
+          }
+        },
+        {
+          "client_id": "923325243352-jvtekjmcqlhllsl97k0apkar2ftg9oj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAye9t2OIbSglPdRMIHep3E1qhI5IxlEIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923325243352-jvtekjmcqlhllsl97k0apkar2ftg9oj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

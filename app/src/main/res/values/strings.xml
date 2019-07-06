@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MiniPro</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Login</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="name">name</string>
+    <string name="login_with_google">Sign in</string>
+    <string name="logout">Sign Up</string>
+    <string name="b_c_a">B.C.A.</string>
+    <string name="_12_06_2019">12-06-2019</string>
+    <string name="this_mess_is_some_message_for_bca_students">this mess is some message for bca students</string>
+    <string name="todo">TODO</string>
+    <string name="ask">Ask?</string>
+    <string name="send">Send</string>
+    <string name="communicate">Communicate</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="google_sign_out">Google Sign Out</string>
+</resources>
